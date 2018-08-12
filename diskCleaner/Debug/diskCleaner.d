@@ -1,0 +1,1 @@
+diskCleaner.o: ../diskCleaner.c
